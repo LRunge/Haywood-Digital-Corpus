@@ -1,6 +1,6 @@
 ## Welcome to the Haywood Digital Corpus
 
-Lesley and I have provided these cleaned, plain text files of Haywood's text for instructors who want to do demonstrate basic text analysis in their classrooms. The sixteen fictional texts and four play texts are titled first with the year of publication so that any comparative analysis will yield results in chronological order.
+Lesley and I have provided these cleaned, plain text files of Haywood's texts for instructors who want to demonstrate basic text analysis in their classrooms. The sixteen fictional texts and four play texts are titled first with the year of publication so that any comparative analysis will yield results in chronological order.
 
 Please feel free to download the files and use them with any concordance software that takes plain text files.
 
