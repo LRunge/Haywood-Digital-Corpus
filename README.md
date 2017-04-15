@@ -1,36 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to the Haywood Digital Corpus
 
-You can use the [editor on GitHub](https://github.com/LRunge/Haywood-Digital-Corpus/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lesley and I have provided these cleaned, plain text files of Haywood's text for instructors who want to do demonstrate basic text analysis in their classrooms. The sixteen fictional texts and four play texts are titled first with the year of publication so that any comparative analysis will yield results in chronological order.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please feel free to download the files and use them with any concordance software that takes plain text files.
 
-### Markdown
+If you find any problems with the text or have any suggestions for making the repository better or just want to share how you have used the files, please contact me at runge@usf.edu.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Happy hunting in Haywood texts!
 
-```markdown
-Syntax highlighted code block
+Laura Runge
+Professor and Chair
+Department of English
+University of South Florida
 
-# Header 1
-## Header 2
-### Header 3
+dated April 15, 2017
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LRunge/Haywood-Digital-Corpus/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
